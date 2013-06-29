@@ -1,0 +1,42 @@
+/*
+ * Sequence.h
+ *
+ *  Created on: 02/08/2011
+ *      Author: biel
+ */
+
+                   
+                   
+
+                                
+                                      
+
+                   
+                  
+
+using namespace std;
+using namespace cv;
+
+class Sequence {
+public:
+
+	Sequence(string fileName, int fAction, bool &ok);
+	virtual ~Sequence();
+	void grabFrames(Mat rgb, Mat auxDepth);
+	bool readFrames(Mat &rgb, Mat &depth);
+	void setFrame(int f);
+
+private:
+
+	int action;
+
+	VideoWriter vrgb;
+	VideoWriter vdepth;
+
+	VideoCapture crgb;
+	VideoCapture cdepth;
+
+
+};
+
+       /* SEQUENCE_H_ */

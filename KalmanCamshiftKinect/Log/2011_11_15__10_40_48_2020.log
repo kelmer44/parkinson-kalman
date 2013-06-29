@@ -1,0 +1,546 @@
+    19004	INFO      	Log	XnLog.cpp	323	OpenNI version is 1.3.4 (Build 3)-Win32 (Oct 10 2011 20:01:54)
+    19089	INFO      	Log	XnLog.cpp	301	--- Filter Info --- Minimum Severity: VERBOSE
+    19246	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Script: OpenNI/OpenNI/1.3.4.3
+    19892	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\OpenNI\Bin\nimRecorder.dll...
+    26448	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Recorder: OpenNI/Recorder/1.3.4.3
+    26508	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Player: OpenNI/Player/1.3.4.3
+    26591	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\OpenNI\Bin\nimMockNodes.dll...
+    33011	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. ProductionNode: OpenNI/Mock/1.3.4.3
+    33049	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Generator: OpenNI/Mock/1.3.4.3
+    33089	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. MapGenerator: OpenNI/Mock/1.3.4.3
+    33128	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Device: OpenNI/Mock/1.3.4.3
+    33164	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Depth: OpenNI/Mock/1.3.4.3
+    33210	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. IR: OpenNI/Mock/1.3.4.3
+    33237	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Image: OpenNI/Mock/1.3.4.3
+    33267	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Audio: OpenNI/Mock/1.3.4.3
+    33294	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\OpenNI\Bin\nimCodecs.dll...
+    40036	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/16zP/1.3.4.3
+    40084	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/16zT/1.3.4.3
+    40122	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/Im8z/1.3.4.3
+    40155	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/JPEG/1.3.4.3
+    40184	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/NONE/1.3.4.3
+    40210	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\SensorKinect\Bin\XnDeviceFile.dll...
+    66560	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Player: PrimeSense/File/5.0.3.4
+    66607	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\SensorKinect\Bin\XnDeviceSensorV2KM.dll...
+    73177	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Device: PrimeSense/SensorKinect/5.0.3.4
+    73215	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Depth: PrimeSense/SensorKinect/5.0.3.4
+    73260	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Image: PrimeSense/SensorKinect/5.0.3.4
+    73296	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. IR: PrimeSense/SensorKinect/5.0.3.4
+    73327	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Audio: PrimeSense/SensorKinect/5.0.3.4
+    73354	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Features_1_3_0\Bin\XnVFeatures_1_3_0.dll...
+    87098	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Scene: PrimeSense/XnVSceneAnalyzer/1.3.0.17
+    87143	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. User: PrimeSense/XnVSkeletonGenerator/1.3.0.17
+    87179	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Features_1_3_1\Bin\XnVFeatures_1_3_1.dll...
+    98377	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Scene: PrimeSense/XnVSceneAnalyzer/1.3.1.6
+    98465	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. User: PrimeSense/XnVSkeletonGenerator/1.3.1.6
+    98504	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Features_1_4_1\Bin\XnVFeatures_1_4_1.dll...
+   112060	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Scene: PrimeSense/XnVSceneAnalyzer/1.4.1.2
+   112121	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. User: PrimeSense/XnVSkeletonGenerator/1.4.1.2
+   112159	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Hands_1_3_0\Bin\XnVHandGenerator_1_3_0.dll...
+   122476	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Gesture: PrimeSense/XnVGestureGenrator/1.3.0.17
+   122520	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Hands: PrimeSense/XnVHandTracker/1.3.0.17
+   122556	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Hands_1_3_1\Bin\XnVHandGenerator_1_3_1.dll...
+   130392	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Gesture: PrimeSense/XnVGestureGenrator/1.3.1.6
+   130445	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Hands: PrimeSense/XnVHandTracker/1.3.1.6
+   130479	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Hands_1_4_1\Bin\XnVHandGenerator_1_4_1.dll...
+   141025	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Gesture: PrimeSense/XnVGestureGenrator/1.4.1.2
+   141069	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Hands: PrimeSense/XnVHandTracker/1.4.1.2
+   141455	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'Script1' of type Script: OpenNI/OpenNI/1.3.4.3...
+   141900	VERBOSE   	OpenNI	XnXmlScriptNode.cpp	780	Requested to create a node of type Depth...
+   162383	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'Device1' of type Device: PrimeSense/SensorKinect/5.0.3.4...
+  1677596	INFO      	DDK	XnProperty.cpp	151	Property Device.ShareMode was changed to 1.
+  1677638	INFO      	DDK	XnProperty.cpp	151	Property Device.InstancePointer was changed.
+  1677892	INFO      	DDK	XnProperty.cpp	151	Property Device.ShareMode was changed to 0.
+  1679174	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'MyDepth' of type Depth: PrimeSense/SensorKinect/5.0.3.4...
+  1679247	VERBOSE   	SensorClient	XnSensorClient.cpp	268	Creating stream MyDepth (of type Depth)
+  1692197	INFO      	DDK	XnProperty.cpp	151	Property Device.ReadData was changed to 1.
+  1718469	INFO      	DDK	XnDeviceBase.cpp	1383	Creating stream 'MyDepth' of type 'Depth'...
+  1718591	VERBOSE   	DDK	XnDeviceBase.cpp	1419	Initializing stream 'MyDepth'...
+  1719065	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.RequiredDataSize was changed to 614400.
+  1719561	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.OutputFormat was changed to 1.
+  1719643	INFO      	DDK	XnDeviceBase.cpp	1458	Stream 'MyDepth' was initialized.
+  1719660	INFO      	DDK	XnDeviceBase.cpp	1463	'MyDepth' stream was created.
+  1720596	VERBOSE   	SensorClient	XnSensorClient.cpp	391	Getting property MyDepth.SupportedModes from server...
+  1720921	VERBOSE   	SensorServer	XnSensorClient.cpp	433	Setting MyDepth.Mirror to 1...
+  1721092	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.Mirror was changed to 1.
+  1721271	VERBOSE   	OpenNI	XnXmlScriptNode.cpp	780	Requested to create a node of type Image (StopOnError=FALSE)...
+  1723510	VERBOSE   	SensorClient	XnSensorClient.cpp	391	Getting property Device.CmosBlankingUnits from server...
+  1736032	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'Image1' of type Image: PrimeSense/SensorKinect/5.0.3.4...
+  1736081	VERBOSE   	SensorClient	XnSensorClient.cpp	268	Creating stream Image1 (of type Image)
+  1746151	INFO      	DDK	XnDeviceBase.cpp	1383	Creating stream 'Image1' of type 'Image'...
+  1746503	VERBOSE   	DDK	XnDeviceBase.cpp	1419	Initializing stream 'Image1'...
+  1747010	INFO      	DDK	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 921600.
+  1747617	INFO      	DDK	XnProperty.cpp	151	Property Image1.OutputFormat was changed to 5.
+  1747652	INFO      	DDK	XnDeviceBase.cpp	1458	Stream 'Image1' was initialized.
+  1747669	INFO      	DDK	XnDeviceBase.cpp	1463	'Image1' stream was created.
+  1748166	VERBOSE   	SensorClient	XnSensorClient.cpp	391	Getting property Image1.SupportedModes from server...
+  1748476	VERBOSE   	SensorServer	XnSensorClient.cpp	433	Setting Image1.Mirror to 1...
+  1748613	INFO      	DDK	XnProperty.cpp	151	Property Image1.Mirror was changed to 1.
+  1748929	VERBOSE   	DDK	XnDeviceBase.cpp	359	Opening stream MyDepth...
+  1749894	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.ActualReadData was changed to 1.
+  2005392	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I:  0.00, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  2241160	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.State was changed to 1.
+  2241201	INFO      	DDK	XnDeviceBase.cpp	370	Stream MyDepth is open.
+  2241228	VERBOSE   	DDK	XnDeviceBase.cpp	359	Opening stream Image1...
+  2242173	INFO      	DDK	XnProperty.cpp	151	Property Image1.ActualReadData was changed to 1.
+  3005298	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  4005342	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  5005289	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  5447213	INFO      	DDK	XnProperty.cpp	151	Property Image1.State was changed to 1.
+  5447262	INFO      	DDK	XnDeviceBase.cpp	370	Stream Image1 is open.
+  5447423	VERBOSE   	SensorServer	XnSensorClient.cpp	433	Setting MyDepth.Registration to 1...
+  5598667	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.Registration was changed to 1.
+  6008831	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.59, O: 21.42) Image1 (I: 30.17, O: 21.42) ReadCalls: 21.40
+  7008992	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.35, O: 21.11) Image1 (I: 30.67, O: 21.84) ReadCalls: 21.84
+  8008714	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.36, O: 21.07) Image1 (I: 30.42, O: 21.49) ReadCalls: 21.49
+  9008749	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.48) Image1 (I: 30.31, O: 21.81) ReadCalls: 21.81
+ 10008683	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.25) Image1 (I: 30.30, O: 21.59) ReadCalls: 21.59
+ 11008944	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.47) Image1 (I: 30.31, O: 21.80) ReadCalls: 21.80
+ 12008609	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.25) Image1 (I: 30.30, O: 21.59) ReadCalls: 21.59
+ 13008562	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.70) Image1 (I: 30.31, O: 21.70) ReadCalls: 21.70
+ 14008542	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.59) Image1 (I: 30.30, O: 21.59) ReadCalls: 21.59
+ 15008689	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.69) Image1 (I: 30.30, O: 21.69) ReadCalls: 21.69
+ 16008604	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.58) Image1 (I: 30.30, O: 21.58) ReadCalls: 21.58
+ 17008625	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.69) Image1 (I: 30.30, O: 21.69) ReadCalls: 21.69
+ 18008628	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.59) Image1 (I: 30.30, O: 21.93) ReadCalls: 21.92
+ 19008524	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.36) Image1 (I: 30.30, O: 21.70) ReadCalls: 21.70
+ 20009201	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.58) Image1 (I: 30.30, O: 21.92) ReadCalls: 21.92
+ 21008477	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.58) Image1 (I: 30.30, O: 21.58) ReadCalls: 21.58
+ 22009000	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.69) Image1 (I: 30.30, O: 21.69) ReadCalls: 21.69
+ 23008387	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.58) Image1 (I: 30.30, O: 21.58) ReadCalls: 21.58
+ 24008675	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.70) Image1 (I: 30.30, O: 21.70) ReadCalls: 21.69
+ 25008449	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.58) Image1 (I: 30.30, O: 21.58) ReadCalls: 21.58
+ 26008329	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.48) Image1 (I: 30.31, O: 21.48) ReadCalls: 21.47
+ 27008652	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.58) Image1 (I: 30.30, O: 21.58) ReadCalls: 21.58
+ 28008485	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.47) Image1 (I: 30.31, O: 21.47) ReadCalls: 21.47
+ 29008140	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.36) Image1 (I: 30.00, O: 21.36) ReadCalls: 21.36
+ 30008430	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.00, O: 21.58) ReadCalls: 21.58
+ 31007550	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.32, O: 21.47) Image1 (I: 30.01, O: 21.47) ReadCalls: 21.47
+ 32008102	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.36) Image1 (I: 30.00, O: 21.36) ReadCalls: 21.36
+ 33009160	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.57) Image1 (I: 30.06, O: 21.58) ReadCalls: 21.57
+ 34007865	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.48) Image1 (I: 30.00, O: 21.48) ReadCalls: 21.48
+ 35008048	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.36) Image1 (I: 30.00, O: 21.36) ReadCalls: 21.36
+ 36008855	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.00, O: 21.58) ReadCalls: 21.58
+ 37008504	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.46) Image1 (I: 30.07, O: 21.47) ReadCalls: 21.46
+ 38008327	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.69) Image1 (I: 30.40, O: 21.69) ReadCalls: 21.69
+ 39008165	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.01, O: 21.58) Image1 (I: 30.40, O: 21.58) ReadCalls: 21.58
+ 40008161	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.47) Image1 (I: 30.41, O: 21.47) ReadCalls: 21.47
+ 41008232	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.24) Image1 (I: 30.40, O: 21.58) ReadCalls: 21.58
+ 42008494	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.46) Image1 (I: 30.41, O: 21.80) ReadCalls: 21.80
+ 43008211	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.36) Image1 (I: 30.41, O: 22.03) ReadCalls: 22.03
+ 44008202	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.80) Image1 (I: 30.41, O: 22.14) ReadCalls: 22.14
+ 45008037	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.59) Image1 (I: 30.41, O: 21.93) ReadCalls: 21.92
+ 46008147	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.47) Image1 (I: 30.41, O: 21.47) ReadCalls: 21.46
+ 47008148	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.59) Image1 (I: 30.40, O: 21.59) ReadCalls: 21.58
+ 48008150	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.47) Image1 (I: 30.41, O: 21.47) ReadCalls: 21.46
+ 49008158	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.69) Image1 (I: 30.40, O: 21.69) ReadCalls: 21.69
+ 50007990	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.92) Image1 (I: 30.40, O: 21.92) ReadCalls: 21.91
+ 51008124	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.69) Image1 (I: 30.40, O: 21.69) ReadCalls: 21.69
+ 52008084	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.58) Image1 (I: 30.40, O: 21.59) ReadCalls: 21.58
+ 53008536	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.58) Image1 (I: 30.40, O: 21.58) ReadCalls: 21.58
+ 54008272	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.48) Image1 (I: 30.40, O: 21.48) ReadCalls: 21.47
+ 55010497	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.18, O: 21.34) Image1 (I: 30.04, O: 21.34) ReadCalls: 21.67
+ 56018106	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.51) Image1 (I: 30.30, O: 21.51) ReadCalls: 21.51
+ 57017958	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.41) Image1 (I: 30.31, O: 21.41) ReadCalls: 21.40
+ 58011389	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.16, O: 21.34) Image1 (I: 30.07, O: 21.34) ReadCalls: 21.67
+ 59017981	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.50) Image1 (I: 30.30, O: 21.51) ReadCalls: 21.50
+ 60007479	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.47) Image1 (I: 30.10, O: 21.13) ReadCalls: 21.47
+ 61007926	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.69) Image1 (I: 30.10, O: 21.36) ReadCalls: 21.69
+ 62007551	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.59) Image1 (I: 30.10, O: 21.25) ReadCalls: 21.59
+ 63007550	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.36) Image1 (I: 30.10, O: 21.36) ReadCalls: 21.36
+ 64008182	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.10, O: 21.58) ReadCalls: 21.58
+ 65007510	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.47) Image1 (I: 30.10, O: 21.47) ReadCalls: 21.47
+ 66007790	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.35) Image1 (I: 30.10, O: 21.35) ReadCalls: 21.35
+ 67008074	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.57) Image1 (I: 30.10, O: 21.58) ReadCalls: 21.57
+ 68007514	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.47) Image1 (I: 30.10, O: 21.47) ReadCalls: 21.47
+ 69017917	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.62) Image1 (I: 29.96, O: 21.62) ReadCalls: 21.62
+ 70017333	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.51) Image1 (I: 30.00, O: 21.52) ReadCalls: 21.51
+ 71011024	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.03, O: 21.34) Image1 (I: 30.07, O: 21.34) ReadCalls: 21.67
+ 72018967	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.50) Image1 (I: 29.95, O: 21.50) ReadCalls: 21.50
+ 73017640	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.39) Image1 (I: 29.97, O: 21.39) ReadCalls: 21.39
+ 74009965	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.34) Image1 (I: 30.08, O: 21.34) ReadCalls: 21.67
+ 75018038	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.50) Image1 (I: 30.01, O: 21.50) ReadCalls: 21.50
+ 76017535	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.39) Image1 (I: 30.00, O: 21.39) ReadCalls: 21.39
+ 77017600	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.29) Image1 (I: 30.00, O: 21.63) ReadCalls: 21.62
+ 78009846	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.22) Image1 (I: 30.08, O: 21.56) ReadCalls: 21.90
+ 79017572	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.40) Image1 (I: 30.30, O: 21.73) ReadCalls: 21.73
+ 80017464	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.39) Image1 (I: 30.31, O: 21.39) ReadCalls: 21.39
+ 81009760	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.34) Image1 (I: 30.08, O: 21.34) ReadCalls: 21.67
+ 82017724	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.51) Image1 (I: 30.30, O: 21.51) ReadCalls: 21.51
+ 83017647	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.74) Image1 (I: 30.30, O: 21.74) ReadCalls: 21.72
+ 84017355	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.62) Image1 (I: 30.30, O: 21.62) ReadCalls: 21.62
+ 85017675	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.85) Image1 (I: 30.30, O: 21.85) ReadCalls: 21.84
+ 86017400	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.51) Image1 (I: 30.30, O: 21.51) ReadCalls: 21.51
+ 87009591	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.18, O: 21.46) Image1 (I: 30.08, O: 21.46) ReadCalls: 21.79
+ 88017574	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.51) Image1 (I: 30.30, O: 21.51) ReadCalls: 21.51
+ 89010513	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.17, O: 21.45) Image1 (I: 30.07, O: 21.45) ReadCalls: 21.78
+ 90018029	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.61) Image1 (I: 30.30, O: 21.61) ReadCalls: 21.61
+ 91007052	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.11, O: 21.59) ReadCalls: 21.58
+ 92007942	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.69) Image1 (I: 30.10, O: 21.69) ReadCalls: 21.69
+ 93007911	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.58) Image1 (I: 30.10, O: 21.92) ReadCalls: 21.91
+ 94007277	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.36) Image1 (I: 30.10, O: 21.69) ReadCalls: 21.69
+ 95007343	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.24) Image1 (I: 30.10, O: 21.58) ReadCalls: 21.58
+ 96007274	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.10, O: 21.58) ReadCalls: 21.57
+ 97007078	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.46) Image1 (I: 30.10, O: 21.13) ReadCalls: 21.46
+ 98007357	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.69) Image1 (I: 30.10, O: 21.36) ReadCalls: 21.69
+ 99007133	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.10, O: 21.24) ReadCalls: 21.57
+100007160	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.69) Image1 (I: 30.10, O: 21.69) ReadCalls: 21.69
+101017012	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.51) Image1 (I: 30.00, O: 21.51) ReadCalls: 21.51
+102010145	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.04, O: 21.44) Image1 (I: 30.07, O: 21.44) ReadCalls: 21.77
+103018176	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.50) Image1 (I: 29.96, O: 21.50) ReadCalls: 21.50
+104016790	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.32, O: 21.39) Image1 (I: 30.00, O: 21.39) ReadCalls: 21.39
+105017553	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.61) Image1 (I: 29.96, O: 21.61) ReadCalls: 21.61
+106010032	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.55) Image1 (I: 30.08, O: 21.55) ReadCalls: 21.89
+107017939	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.72) Image1 (I: 29.96, O: 21.72) ReadCalls: 21.72
+108017403	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.84) Image1 (I: 30.00, O: 21.84) ReadCalls: 21.83
+109017337	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.61) Image1 (I: 30.06, O: 21.61) ReadCalls: 21.61
+110009921	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.55) Image1 (I: 30.08, O: 21.55) ReadCalls: 21.89
+111016926	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.50) Image1 (I: 30.41, O: 21.50) ReadCalls: 21.50
+112009860	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.07, O: 21.78) Image1 (I: 30.08, O: 21.78) ReadCalls: 22.11
+113017361	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.95) Image1 (I: 30.40, O: 21.95) ReadCalls: 21.95
+114009800	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.17, O: 21.79) Image1 (I: 30.07, O: 21.79) ReadCalls: 22.12
+115017148	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.62) Image1 (I: 30.40, O: 21.62) ReadCalls: 21.62
+116009750	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.17, O: 21.22) Image1 (I: 30.08, O: 21.55) ReadCalls: 21.89
+117017088	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.28) Image1 (I: 30.40, O: 21.62) ReadCalls: 21.61
+118016861	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.17) Image1 (I: 30.41, O: 21.50) ReadCalls: 21.50
+119017243	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.61) Image1 (I: 30.40, O: 21.61) ReadCalls: 21.61
+120009635	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.17, O: 21.56) Image1 (I: 30.07, O: 21.56) ReadCalls: 21.90
+121017086	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.74) Image1 (I: 30.40, O: 21.74) ReadCalls: 21.72
+122009579	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.17, O: 21.46) Image1 (I: 30.08, O: 21.46) ReadCalls: 21.78
+123007128	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.69) Image1 (I: 30.10, O: 21.69) ReadCalls: 21.68
+124006398	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.11, O: 21.58) ReadCalls: 21.57
+125006586	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.36) Image1 (I: 30.10, O: 21.36) ReadCalls: 21.35
+126007486	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.57) Image1 (I: 30.09, O: 21.58) ReadCalls: 21.57
+127006654	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.46) Image1 (I: 30.10, O: 21.46) ReadCalls: 21.46
+128006356	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.36) Image1 (I: 30.10, O: 21.36) ReadCalls: 21.36
+129006515	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.58) Image1 (I: 30.11, O: 21.58) ReadCalls: 21.58
+130006305	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.46) Image1 (I: 30.10, O: 21.46) ReadCalls: 21.46
+131007665	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.68) Image1 (I: 30.09, O: 21.68) ReadCalls: 21.68
+132016310	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.51) Image1 (I: 30.01, O: 21.51) ReadCalls: 21.51
+133008289	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.33) Image1 (I: 30.09, O: 21.34) ReadCalls: 21.67
+134016919	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.50) Image1 (I: 30.10, O: 21.50) ReadCalls: 21.50
+135009213	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.07, O: 21.45) Image1 (I: 30.17, O: 21.45) ReadCalls: 21.78
+136016653	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.61) Image1 (I: 30.10, O: 21.61) ReadCalls: 21.61
+137016755	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.50) Image1 (I: 30.10, O: 21.50) ReadCalls: 21.50
+138017646	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.60) Image1 (I: 30.09, O: 21.61) ReadCalls: 21.60
+139016257	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.51) Image1 (I: 30.10, O: 21.51) ReadCalls: 21.51
+140018179	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.72) Image1 (I: 30.08, O: 21.72) ReadCalls: 21.71
+141023699	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.99, O: 21.45) Image1 (I: 30.03, O: 21.45) ReadCalls: 21.79
+142008033	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.45) Image1 (I: 30.19, O: 21.45) ReadCalls: 21.78
+143026107	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.43) Image1 (I: 30.00, O: 21.43) ReadCalls: 21.43
+144023611	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.02, O: 21.35) Image1 (I: 30.03, O: 21.35) ReadCalls: 21.67
+145007956	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.34) Image1 (I: 30.20, O: 21.34) ReadCalls: 21.67
+146026819	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.43) Image1 (I: 29.96, O: 21.43) ReadCalls: 21.43
+147026112	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.67) Image1 (I: 30.00, O: 21.67) ReadCalls: 21.65
+148008847	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.18, O: 21.68) Image1 (I: 30.18, O: 21.68) ReadCalls: 22.01
+149026450	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.76) Image1 (I: 30.00, O: 21.76) ReadCalls: 21.76
+150023431	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.03, O: 21.45) Image1 (I: 30.03, O: 21.45) ReadCalls: 21.78
+151008761	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.18, O: 21.34) Image1 (I: 30.18, O: 21.34) ReadCalls: 21.67
+152026368	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.43) Image1 (I: 30.30, O: 21.43) ReadCalls: 21.42
+153008705	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.18, O: 21.46) Image1 (I: 30.18, O: 21.46) ReadCalls: 21.77
+154006240	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.69) Image1 (I: 30.20, O: 21.69) ReadCalls: 21.68
+155005915	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.58) Image1 (I: 30.21, O: 21.58) ReadCalls: 21.58
+156006664	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.68) Image1 (I: 30.20, O: 21.68) ReadCalls: 21.68
+157005987	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.57) Image1 (I: 30.20, O: 21.57) ReadCalls: 21.57
+158005925	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.35) Image1 (I: 30.21, O: 21.35) ReadCalls: 21.35
+159006055	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.58) Image1 (I: 30.20, O: 21.58) ReadCalls: 21.58
+160005801	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.46) Image1 (I: 30.21, O: 21.46) ReadCalls: 21.46
+161006021	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.35) Image1 (I: 30.21, O: 21.69) ReadCalls: 21.68
+162006357	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.23) Image1 (I: 30.20, O: 21.57) ReadCalls: 21.57
+163016782	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.38) Image1 (I: 30.09, O: 21.72) ReadCalls: 21.71
+164007414	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.45) Image1 (I: 30.19, O: 21.45) ReadCalls: 21.78
+165015806	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.27) Image1 (I: 30.11, O: 21.61) ReadCalls: 21.61
+166008342	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.22) Image1 (I: 30.18, O: 21.56) ReadCalls: 21.90
+167016552	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.28) Image1 (I: 30.10, O: 21.61) ReadCalls: 21.61
+168015966	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.16) Image1 (I: 30.10, O: 21.50) ReadCalls: 21.50
+169016667	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.61) Image1 (I: 30.10, O: 21.61) ReadCalls: 21.61
+170008227	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.55) Image1 (I: 30.18, O: 21.55) ReadCalls: 21.89
+171008221	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.44) Image1 (I: 30.18, O: 21.78) ReadCalls: 22.11
+172016906	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.50) Image1 (I: 30.09, O: 21.83) ReadCalls: 21.83
+173008147	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.07, O: 21.34) Image1 (I: 30.18, O: 21.67) ReadCalls: 22.00
+174022762	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.57) Image1 (I: 30.03, O: 21.57) ReadCalls: 21.90
+175008089	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.55) Image1 (I: 30.18, O: 21.55) ReadCalls: 21.89
+176026044	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.55) Image1 (I: 30.00, O: 21.55) ReadCalls: 21.54
+177008035	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.18, O: 21.46) Image1 (I: 30.18, O: 21.46) ReadCalls: 21.77
+178025618	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.55) Image1 (I: 30.00, O: 21.55) ReadCalls: 21.54
+179006998	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.56) Image1 (I: 30.19, O: 21.56) ReadCalls: 21.90
+180025803	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.55) Image1 (I: 30.01, O: 21.55) ReadCalls: 21.54
+181023559	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.02, O: 21.44) Image1 (I: 30.02, O: 21.44) ReadCalls: 21.77
+182007886	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.18, O: 21.33) Image1 (I: 30.18, O: 21.33) ReadCalls: 21.67
+183025891	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.43) Image1 (I: 30.30, O: 21.43) ReadCalls: 21.43
+184023452	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.02, O: 21.35) Image1 (I: 30.02, O: 21.69) ReadCalls: 22.00
+185005347	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.35) Image1 (I: 30.21, O: 21.69) ReadCalls: 21.68
+186005508	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.57) Image1 (I: 30.21, O: 21.91) ReadCalls: 21.90
+187005450	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.13) Image1 (I: 30.20, O: 21.47) ReadCalls: 21.46
+188005861	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.35) Image1 (I: 30.20, O: 21.68) ReadCalls: 21.68
+189005823	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.24) Image1 (I: 30.20, O: 21.57) ReadCalls: 21.57
+190003835	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.32, O: 21.36) Image1 (I: 30.22, O: 21.36) ReadCalls: 21.36
+191005153	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.58) Image1 (I: 30.21, O: 21.58) ReadCalls: 21.58
+192006211	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.79) Image1 (I: 30.20, O: 21.79) ReadCalls: 21.78
+193003497	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.70) Image1 (I: 30.23, O: 21.70) ReadCalls: 21.70
+194003405	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.33, O: 20.03) Image1 (I: 30.23, O: 20.03) ReadCalls: 20.03
+195013828	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.32, O: 18.15) Image1 (I: 30.12, O: 18.15) ReadCalls: 18.15
+196014214	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 16.21) Image1 (I: 30.12, O: 16.21) ReadCalls: 16.21
+197006495	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.03, O: 17.52) Image1 (I: 30.20, O: 17.52) ReadCalls: 17.86
+198015884	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.28, O: 19.48) Image1 (I: 30.11, O: 19.48) ReadCalls: 19.48
+199015786	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.28, O: 21.16) Image1 (I: 30.10, O: 21.16) ReadCalls: 21.15
+200007384	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.07, O: 21.33) Image1 (I: 30.19, O: 21.33) ReadCalls: 21.67
+201015680	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.16) Image1 (I: 30.10, O: 21.49) ReadCalls: 21.49
+202007329	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.10) Image1 (I: 30.18, O: 21.44) ReadCalls: 21.77
+203015675	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.27) Image1 (I: 30.10, O: 21.61) ReadCalls: 21.60
+204021942	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.34) Image1 (I: 30.04, O: 21.34) ReadCalls: 21.67
+205025260	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.55) Image1 (I: 30.00, O: 21.55) ReadCalls: 21.54
+206021874	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.45) Image1 (I: 30.03, O: 21.45) ReadCalls: 21.79
+207006214	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.47) Image1 (I: 30.19, O: 21.47) ReadCalls: 21.78
+208021831	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.03, O: 21.45) Image1 (I: 30.04, O: 21.11) ReadCalls: 21.78
+209025038	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.67) Image1 (I: 30.11, O: 21.34) ReadCalls: 21.66
+210007111	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.68) Image1 (I: 30.28, O: 21.34) ReadCalls: 22.00
+211025163	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.67) Image1 (I: 30.10, O: 21.67) ReadCalls: 21.65
+212025455	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.76) Image1 (I: 30.10, O: 21.76) ReadCalls: 21.76
+213022642	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.03, O: 21.56) Image1 (I: 30.13, O: 21.56) ReadCalls: 21.90
+214006013	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.56) Image1 (I: 30.29, O: 21.56) ReadCalls: 21.90
+215021625	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.04, O: 21.45) Image1 (I: 30.14, O: 21.45) ReadCalls: 21.78
+216006940	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.45) Image1 (I: 30.29, O: 21.45) ReadCalls: 21.78
+217005599	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.67) Image1 (I: 30.30, O: 21.67) ReadCalls: 21.67
+218004831	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.46) Image1 (I: 30.31, O: 21.46) ReadCalls: 21.45
+219004786	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.68) Image1 (I: 30.31, O: 21.69) ReadCalls: 21.68
+220004862	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.91) Image1 (I: 30.31, O: 21.91) ReadCalls: 21.91
+221004869	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.68) Image1 (I: 30.30, O: 21.68) ReadCalls: 21.67
+222004871	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.57) Image1 (I: 30.31, O: 21.57) ReadCalls: 21.57
+223005349	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.23) Image1 (I: 30.30, O: 21.56) ReadCalls: 21.56
+224005081	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.12) Image1 (I: 30.31, O: 21.45) ReadCalls: 21.45
+225004958	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.34) Image1 (I: 30.30, O: 21.67) ReadCalls: 21.67
+226014991	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.39) Image1 (I: 30.20, O: 21.72) ReadCalls: 21.72
+227014874	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.27) Image1 (I: 30.20, O: 21.61) ReadCalls: 21.60
+228006605	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.22) Image1 (I: 30.29, O: 21.55) ReadCalls: 21.89
+229015577	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.49) Image1 (I: 30.20, O: 21.50) ReadCalls: 21.49
+230014864	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.38) Image1 (I: 30.20, O: 21.38) ReadCalls: 21.38
+231004907	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.35) Image1 (I: 30.31, O: 21.35) ReadCalls: 21.35
+232004880	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.57) Image1 (I: 30.30, O: 21.57) ReadCalls: 21.57
+233004924	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.46) Image1 (I: 30.30, O: 21.46) ReadCalls: 21.46
+234004806	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.34) Image1 (I: 30.30, O: 21.34) ReadCalls: 21.34
+235004948	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.56) Image1 (I: 30.30, O: 21.56) ReadCalls: 21.56
+236004750	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.46) Image1 (I: 30.30, O: 21.46) ReadCalls: 21.46
+237004756	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.67) Image1 (I: 30.30, O: 21.67) ReadCalls: 21.67
+238004769	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.56) Image1 (I: 30.30, O: 21.57) ReadCalls: 21.56
+239004746	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.68) Image1 (I: 30.30, O: 21.68) ReadCalls: 21.68
+240004792	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.57) Image1 (I: 30.30, O: 21.57) ReadCalls: 21.57
+241004757	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.48) Image1 (I: 30.31, O: 21.48) ReadCalls: 21.46
+242004739	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.57) Image1 (I: 30.30, O: 21.57) ReadCalls: 21.57
+243004861	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.81) Image1 (I: 30.31, O: 21.81) ReadCalls: 21.79
+244004737	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.68) Image1 (I: 30.30, O: 21.68) ReadCalls: 21.68
+245004643	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.21, O: 21.48) Image1 (I: 30.31, O: 21.48) ReadCalls: 21.46
+246004610	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.57) Image1 (I: 30.30, O: 21.57) ReadCalls: 21.57
+247004660	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 22.12) Image1 (I: 30.30, O: 22.12) ReadCalls: 22.12
+248004678	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.00) Image1 (I: 29.97, O: 22.01) ReadCalls: 22.00
+249004604	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.67) Image1 (I: 29.97, O: 21.67) ReadCalls: 21.67
+250004219	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.57) Image1 (I: 30.00, O: 21.57) ReadCalls: 21.56
+251004378	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.45) Image1 (I: 30.00, O: 21.45) ReadCalls: 21.45
+252004729	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.67) Image1 (I: 29.97, O: 21.67) ReadCalls: 21.67
+253004453	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 14.42) Image1 (I: 30.00, O: 14.42) ReadCalls: 14.42
+254004328	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  7.34) Image1 (I: 30.00, O:  7.34) ReadCalls:  7.33
+255004364	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 22.45) Image1 (I: 30.00, O: 22.45) ReadCalls: 22.44
+256004343	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 14.80) Image1 (I: 30.00, O: 15.37) ReadCalls: 15.36
+257004496	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.07, O: 13.42) Image1 (I: 30.30, O: 13.78) ReadCalls: 13.78
+258004467	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.07, O: 14.15) Image1 (I: 30.30, O: 14.49) ReadCalls: 14.49
+259004528	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.07, O: 18.10) Image1 (I: 30.30, O: 18.10) ReadCalls: 18.10
+260004436	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.68) Image1 (I: 30.30, O: 21.68) ReadCalls: 21.68
+261004465	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.56) Image1 (I: 30.30, O: 21.56) ReadCalls: 21.56
+262004486	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.79) Image1 (I: 30.30, O: 21.79) ReadCalls: 21.79
+263004516	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.56) Image1 (I: 30.30, O: 21.56) ReadCalls: 21.56
+264004569	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.68) Image1 (I: 30.30, O: 21.68) ReadCalls: 21.67
+265004437	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.56) Image1 (I: 30.30, O: 21.56) ReadCalls: 21.56
+266004390	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.79) Image1 (I: 30.30, O: 21.79) ReadCalls: 21.79
+267004361	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.46) Image1 (I: 30.30, O: 21.46) ReadCalls: 21.45
+268004350	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.67) Image1 (I: 30.30, O: 21.67) ReadCalls: 21.67
+269004334	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.57) Image1 (I: 30.30, O: 21.57) ReadCalls: 21.57
+270004470	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.81) Image1 (I: 30.31, O: 21.81) ReadCalls: 21.79
+271004298	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.45) Image1 (I: 30.30, O: 21.45) ReadCalls: 21.45
+272004279	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.34) Image1 (I: 30.30, O: 21.34) ReadCalls: 21.34
+273004386	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.56) Image1 (I: 30.30, O: 21.56) ReadCalls: 21.56
+274004354	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.45) Image1 (I: 30.30, O: 21.45) ReadCalls: 21.45
+275004227	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.68) Image1 (I: 30.30, O: 21.34) ReadCalls: 21.67
+276004173	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.90) Image1 (I: 30.30, O: 21.57) ReadCalls: 21.90
+277004261	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 22.15) Image1 (I: 30.31, O: 21.81) ReadCalls: 22.12
+278004226	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.78) Image1 (I: 30.30, O: 21.78) ReadCalls: 21.78
+279003780	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.35) Image1 (I: 30.00, O: 21.35) ReadCalls: 21.34
+280004005	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.56) Image1 (I: 30.00, O: 21.56) ReadCalls: 21.56
+281004208	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.45) Image1 (I: 29.97, O: 21.45) ReadCalls: 21.45
+282004227	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.67) Image1 (I: 29.97, O: 21.67) ReadCalls: 21.67
+283003734	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.56) Image1 (I: 30.00, O: 21.56) ReadCalls: 21.56
+284004491	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.34) Image1 (I: 30.06, O: 21.34) ReadCalls: 21.34
+285003770	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.56) Image1 (I: 30.01, O: 21.56) ReadCalls: 21.56
+286004215	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.78) Image1 (I: 30.07, O: 21.78) ReadCalls: 21.78
+287002842	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 22.02) Image1 (I: 30.02, O: 21.68) ReadCalls: 22.02
+288002974	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.42, O: 21.91) Image1 (I: 30.01, O: 21.58) ReadCalls: 21.91
+289004000	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.90) Image1 (I: 30.41, O: 21.23) ReadCalls: 21.90
+290003985	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.90) Image1 (I: 30.41, O: 21.22) ReadCalls: 21.89
+291003969	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 22.00) Image1 (I: 30.40, O: 21.34) ReadCalls: 21.89
+292004320	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 22.12) Image1 (I: 30.40, O: 21.79) ReadCalls: 22.12
+293004084	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.67) Image1 (I: 30.40, O: 21.67) ReadCalls: 21.67
+294003817	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.45) Image1 (I: 30.00, O: 21.79) ReadCalls: 22.12
+295004165	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.22) Image1 (I: 30.40, O: 22.23) ReadCalls: 22.23
+296003869	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.12) Image1 (I: 30.40, O: 22.12) ReadCalls: 22.12
+297003725	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.00) Image1 (I: 30.00, O: 21.67) ReadCalls: 22.33
+298004018	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.56) Image1 (I: 30.41, O: 21.56) ReadCalls: 21.89
+299003860	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.45) Image1 (I: 30.40, O: 21.45) ReadCalls: 21.78
+300003628	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.34) Image1 (I: 30.00, O: 21.34) ReadCalls: 21.67
+301003875	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.56) Image1 (I: 30.41, O: 21.56) ReadCalls: 21.56
+302003864	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.47) Image1 (I: 30.41, O: 21.47) ReadCalls: 21.45
+303003549	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.21, O: 21.34) Image1 (I: 30.00, O: 21.67) ReadCalls: 22.00
+304003970	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.56) Image1 (I: 30.40, O: 22.24) ReadCalls: 22.24
+305003798	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.44) Image1 (I: 30.41, O: 22.12) ReadCalls: 22.11
+306013694	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.62) Image1 (I: 30.30, O: 21.96) ReadCalls: 21.94
+307003441	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.56) Image1 (I: 30.01, O: 21.56) ReadCalls: 21.90
+308013639	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.71) Image1 (I: 30.31, O: 21.73) ReadCalls: 21.71
+309003386	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.56) Image1 (I: 30.10, O: 21.90) ReadCalls: 22.23
+310002421	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.68) Image1 (I: 30.11, O: 22.01) ReadCalls: 22.01
+311002224	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.45) Image1 (I: 30.11, O: 21.79) ReadCalls: 21.79
+312003045	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 22.00) Image1 (I: 30.11, O: 21.67) ReadCalls: 22.00
+313002445	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.90) Image1 (I: 30.11, O: 21.57) ReadCalls: 21.90
+314002487	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 22.12) Image1 (I: 30.11, O: 21.79) ReadCalls: 22.12
+315002374	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.91) Image1 (I: 30.11, O: 21.91) ReadCalls: 21.91
+316002461	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.79) Image1 (I: 30.11, O: 21.79) ReadCalls: 21.79
+317001179	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.32, O: 21.69) Image1 (I: 30.13, O: 21.69) ReadCalls: 21.69
+318001193	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 19.78) Image1 (I: 30.12, O: 19.79) ReadCalls: 19.78
+319001301	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 18.02) Image1 (I: 30.13, O: 18.02) ReadCalls: 18.02
+320011813	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 16.13) Image1 (I: 30.02, O: 16.13) ReadCalls: 16.13
+321011219	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 16.13) Image1 (I: 30.02, O: 16.13) ReadCalls: 16.13
+322012201	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 18.14) Image1 (I: 30.01, O: 18.14) ReadCalls: 18.14
+323012060	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 20.15) Image1 (I: 30.01, O: 20.15) ReadCalls: 20.15
+324002972	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 22.12) Image1 (I: 30.11, O: 22.13) ReadCalls: 22.46
+325011702	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 22.06) Image1 (I: 30.02, O: 22.39) ReadCalls: 22.39
+326012103	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.05) Image1 (I: 30.01, O: 22.05) ReadCalls: 22.38
+327011798	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.95) Image1 (I: 30.02, O: 21.95) ReadCalls: 22.28
+328003846	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.90) Image1 (I: 30.09, O: 21.56) ReadCalls: 22.23
+329013316	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 22.49) Image1 (I: 30.31, O: 22.49) ReadCalls: 22.49
+330013266	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 22.16) Image1 (I: 30.30, O: 22.50) ReadCalls: 22.50
+331013309	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.95) Image1 (I: 30.30, O: 22.29) ReadCalls: 22.28
+332013260	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.72) Image1 (I: 30.31, O: 21.73) ReadCalls: 21.71
+333013197	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.83) Image1 (I: 30.31, O: 21.83) ReadCalls: 21.83
+334002701	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.47) Image1 (I: 30.11, O: 21.80) ReadCalls: 22.12
+335013220	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.71) Image1 (I: 30.30, O: 22.06) ReadCalls: 22.04
+336013330	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.48) Image1 (I: 30.31, O: 21.82) ReadCalls: 21.82
+337013206	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.95) Image1 (I: 30.30, O: 21.95) ReadCalls: 21.94
+338013197	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 21.49) Image1 (I: 30.30, O: 21.83) ReadCalls: 21.82
+339002558	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.45) Image1 (I: 30.11, O: 22.12) ReadCalls: 22.45
+340002534	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.57) Image1 (I: 30.11, O: 21.90) ReadCalls: 22.58
+341013133	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.08, O: 22.15) Image1 (I: 30.31, O: 21.82) ReadCalls: 22.49
+342001008	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.35) Image1 (I: 30.13, O: 21.68) ReadCalls: 22.34
+343001082	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.35) Image1 (I: 30.12, O: 22.01) ReadCalls: 22.34
+344000917	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.13) Image1 (I: 30.12, O: 22.13) ReadCalls: 22.13
+345000965	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.01) Image1 (I: 30.12, O: 22.01) ReadCalls: 22.01
+346000925	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.25) Image1 (I: 30.12, O: 22.25) ReadCalls: 22.25
+347000893	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.80) Image1 (I: 30.12, O: 21.47) ReadCalls: 21.80
+348001436	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.91) Image1 (I: 30.12, O: 21.57) ReadCalls: 21.91
+349001282	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.90) Image1 (I: 30.12, O: 21.23) ReadCalls: 21.90
+350001204	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.01) Image1 (I: 30.12, O: 21.68) ReadCalls: 22.01
+351002233	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.57) Image1 (I: 30.11, O: 21.57) ReadCalls: 22.24
+352002203	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.45) Image1 (I: 30.11, O: 21.78) ReadCalls: 22.12
+353002174	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.56) Image1 (I: 30.11, O: 21.56) ReadCalls: 22.23
+354010964	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.29) Image1 (I: 30.02, O: 21.61) ReadCalls: 22.28
+355011669	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 22.29) Image1 (I: 30.02, O: 21.27) ReadCalls: 22.28
+356002104	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 22.00) Image1 (I: 30.11, O: 21.00) ReadCalls: 22.33
+357011773	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.83) Image1 (I: 30.01, O: 21.15) ReadCalls: 21.82
+358002055	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.57) Image1 (I: 30.11, O: 20.89) ReadCalls: 21.90
+359012593	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.60) Image1 (I: 30.00, O: 21.27) ReadCalls: 21.60
+360001987	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.57) Image1 (I: 30.11, O: 21.23) ReadCalls: 21.90
+361013151	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.27) Image1 (I: 30.40, O: 21.61) ReadCalls: 21.60
+362012786	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.38) Image1 (I: 30.40, O: 21.71) ReadCalls: 21.71
+363012774	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.28) Image1 (I: 30.40, O: 21.62) ReadCalls: 21.60
+364012831	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.37) Image1 (I: 30.40, O: 21.70) ReadCalls: 21.70
+365001871	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 20.89) Image1 (I: 30.11, O: 21.57) ReadCalls: 21.90
+366012857	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.04) Image1 (I: 30.40, O: 21.71) ReadCalls: 21.71
+367001864	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.21, O: 21.22) Image1 (I: 30.11, O: 21.56) ReadCalls: 21.89
+368012655	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.59) Image1 (I: 30.41, O: 21.26) ReadCalls: 21.59
+369002713	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.55) Image1 (I: 30.10, O: 21.22) ReadCalls: 21.89
+370012637	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.60) Image1 (I: 30.41, O: 21.27) ReadCalls: 21.60
+371012693	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.71) Image1 (I: 30.41, O: 21.71) ReadCalls: 21.71
+372001654	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.21, O: 21.68) Image1 (I: 30.11, O: 21.68) ReadCalls: 22.01
+373001861	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.78) Image1 (I: 30.11, O: 21.78) ReadCalls: 21.78
+374001857	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.56) Image1 (I: 30.11, O: 21.56) ReadCalls: 21.56
+375002297	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.68) Image1 (I: 30.11, O: 21.68) ReadCalls: 21.67
+376001781	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.56) Image1 (I: 30.11, O: 21.56) ReadCalls: 21.56
+377001518	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.45) Image1 (I: 30.11, O: 21.45) ReadCalls: 21.78
+378001769	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.56) Image1 (I: 30.11, O: 21.56) ReadCalls: 21.56
+379002550	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.77) Image1 (I: 30.10, O: 21.44) ReadCalls: 21.77
+380001782	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.67) Image1 (I: 30.11, O: 21.34) ReadCalls: 21.68
+381001409	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.78) Image1 (I: 30.11, O: 21.45) ReadCalls: 22.12
+382011730	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.82) Image1 (I: 30.01, O: 21.82) ReadCalls: 21.82
+383002339	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.67) Image1 (I: 30.11, O: 21.67) ReadCalls: 22.00
+384011726	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.60) Image1 (I: 30.01, O: 21.61) ReadCalls: 21.60
+385001301	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.56) Image1 (I: 30.21, O: 21.56) ReadCalls: 21.90
+386011623	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.60) Image1 (I: 30.11, O: 21.60) ReadCalls: 21.60
+387002224	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.44) Image1 (I: 30.20, O: 21.44) ReadCalls: 21.77
+388011335	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.61) Image1 (I: 30.11, O: 21.61) ReadCalls: 21.61
+389011729	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.48) Image1 (I: 30.11, O: 21.48) ReadCalls: 21.48
+390011336	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.60) Image1 (I: 30.11, O: 21.60) ReadCalls: 21.60
+391001137	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.90) Image1 (I: 30.21, O: 21.56) ReadCalls: 22.23
+392017705	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 22.34) Image1 (I: 30.05, O: 21.33) ReadCalls: 22.68
+393021371	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 22.42) Image1 (I: 30.01, O: 21.08) ReadCalls: 22.42
+394016679	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.01, O: 21.92) Image1 (I: 30.06, O: 20.91) ReadCalls: 22.24
+395002005	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.47) Image1 (I: 30.20, O: 21.44) ReadCalls: 21.78
+396020484	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.32, O: 21.42) Image1 (I: 30.02, O: 21.42) ReadCalls: 21.75
+397020533	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.32, O: 21.65) Image1 (I: 30.02, O: 21.65) ReadCalls: 21.98
+398000945	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.34) Image1 (I: 30.22, O: 21.68) ReadCalls: 22.34
+399020593	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.42) Image1 (I: 30.02, O: 21.75) ReadCalls: 21.75
+400017504	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.03, O: 21.11) Image1 (I: 30.05, O: 21.45) ReadCalls: 21.78
+401022011	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 21.53) Image1 (I: 30.30, O: 21.86) ReadCalls: 21.86
+402001815	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.19, O: 21.22) Image1 (I: 30.20, O: 21.89) ReadCalls: 22.22
+403016437	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.04, O: 21.34) Image1 (I: 30.06, O: 22.01) ReadCalls: 22.34
+404000403	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.57) Image1 (I: 30.22, O: 21.91) ReadCalls: 21.91
+405000511	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.01) Image1 (I: 30.22, O: 22.01) ReadCalls: 22.01
+406000274	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.79) Image1 (I: 30.22, O: 21.79) ReadCalls: 21.78
+407021930	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 20.63) Image1 (I: 30.31, O: 20.96) ReadCalls: 20.96
+408001512	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 20.21) Image1 (I: 30.21, O: 20.89) ReadCalls: 20.89
+409001624	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.95, O: 20.34) Image1 (I: 30.21, O: 21.00) ReadCalls: 21.33
+410002382	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.28, O: 21.55) Image1 (I: 30.20, O: 21.89) ReadCalls: 21.88
+411001727	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.77) Image1 (I: 30.20, O: 21.77) ReadCalls: 21.77
+412001538	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 21.34) Image1 (I: 30.21, O: 21.34) ReadCalls: 21.67
+413002733	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.54) Image1 (I: 30.19, O: 21.54) ReadCalls: 21.54
+414011507	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.37) Image1 (I: 30.10, O: 21.37) ReadCalls: 21.37
+415000484	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.01, O: 21.34) Image1 (I: 30.22, O: 21.34) ReadCalls: 21.67
+416011541	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.48) Image1 (I: 30.10, O: 21.48) ReadCalls: 21.48
+417001408	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.45) Image1 (I: 30.21, O: 21.45) ReadCalls: 21.78
+418012183	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.59) Image1 (I: 30.10, O: 21.60) ReadCalls: 21.59
+419011902	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.48) Image1 (I: 30.10, O: 21.48) ReadCalls: 21.48
+420001333	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.34) Image1 (I: 30.21, O: 21.34) ReadCalls: 21.67
+421011590	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.48) Image1 (I: 30.10, O: 21.48) ReadCalls: 21.48
+422011493	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.37) Image1 (I: 30.10, O: 21.37) ReadCalls: 21.37
+423001238	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.11, O: 21.34) Image1 (I: 30.21, O: 21.34) ReadCalls: 21.67
+424021584	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.41) Image1 (I: 30.00, O: 21.41) ReadCalls: 21.41
+425016807	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.01, O: 21.34) Image1 (I: 30.05, O: 21.34) ReadCalls: 21.67
+426000181	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.22, O: 21.34) Image1 (I: 30.22, O: 21.34) ReadCalls: 21.67
+427016754	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.44) Image1 (I: 30.05, O: 21.44) ReadCalls: 21.77
+428001119	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.20, O: 21.45) Image1 (I: 30.21, O: 21.45) ReadCalls: 21.78
+429021363	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.53) Image1 (I: 30.01, O: 21.55) ReadCalls: 21.52
+430001044	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.21, O: 21.11) Image1 (I: 30.21, O: 21.45) ReadCalls: 21.78
+431021633	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.18) Image1 (I: 30.01, O: 21.52) ReadCalls: 21.52
+432000988	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.21, O: 21.22) Image1 (I: 30.21, O: 21.56) ReadCalls: 21.90
+433021558	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.01, O: 21.52) Image1 (I: 30.31, O: 21.52) ReadCalls: 21.52
+434021541	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.00, O: 20.74) Image1 (I: 30.31, O: 20.41) ReadCalls: 20.74
+435000912	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 19.67) Image1 (I: 30.21, O: 19.67) ReadCalls: 20.33
+436000079	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 19.54) Image1 (I: 30.22, O: 19.54) ReadCalls: 20.22
+437016483	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.13, O: 19.43) Image1 (I: 30.05, O: 20.44) ReadCalls: 20.77
+438016452	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.13, O: 20.21) Image1 (I: 30.05, O: 20.89) ReadCalls: 21.22
+439000260	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 20.32) Image1 (I: 30.22, O: 20.67) ReadCalls: 20.65
+440000161	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 20.78) Image1 (I: 30.21, O: 20.78) ReadCalls: 20.78
+441000662	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.11) Image1 (I: 30.21, O: 20.78) ReadCalls: 21.11
+442016346	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.14, O: 22.11) Image1 (I: 30.05, O: 21.44) ReadCalls: 22.44
+443000057	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.67) Image1 (I: 30.22, O: 21.01) ReadCalls: 21.67
+444000666	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.34) Image1 (I: 30.21, O: 21.00) ReadCalls: 21.67
+445009573	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 21.38) Image1 (I: 30.12, O: 21.38) ReadCalls: 21.38
+446008939	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 21.83) Image1 (I: 30.12, O: 21.83) ReadCalls: 21.83
+447000586	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 20.00) Image1 (I: 30.21, O: 20.34) ReadCalls: 20.67
+448009331	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 19.71) Image1 (I: 30.12, O: 20.05) ReadCalls: 20.38
+449009727	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 19.81) Image1 (I: 30.12, O: 20.48) ReadCalls: 20.81
+450000511	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.09, O: 21.67) Image1 (I: 30.21, O: 22.00) ReadCalls: 22.67
+451010278	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O: 21.71) Image1 (I: 30.11, O: 22.05) ReadCalls: 22.04
+452009749	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O: 22.37) Image1 (I: 30.12, O: 22.04) ReadCalls: 22.37
+453000420	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 22.34) Image1 (I: 30.22, O: 22.00) ReadCalls: 22.67
+454019542	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 22.32) Image1 (I: 30.02, O: 21.98) ReadCalls: 22.32
+455015017	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.01, O: 22.12) Image1 (I: 30.06, O: 22.12) ReadCalls: 22.45
+456000419	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.10, O: 21.34) Image1 (I: 30.22, O: 21.67) ReadCalls: 22.00
+457014961	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O: 21.45) Image1 (I: 30.06, O: 21.78) ReadCalls: 22.12
+458018784	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O: 19.95) Image1 (I: 30.02, O: 19.96) ReadCalls: 19.95
+459014911	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.06, O: 19.20) Image1 (I: 30.07, O: 18.87) ReadCalls: 19.54

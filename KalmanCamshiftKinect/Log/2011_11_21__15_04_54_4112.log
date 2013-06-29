@@ -1,0 +1,149 @@
+    61357	INFO      	Log	XnLog.cpp	323	OpenNI version is 1.3.4 (Build 3)-Win32 (Oct 10 2011 20:01:54)
+    61417	INFO      	Log	XnLog.cpp	301	--- Filter Info --- Minimum Severity: VERBOSE
+    61579	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Script: OpenNI/OpenNI/1.3.4.3
+    93426	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\OpenNI\Bin\nimRecorder.dll...
+   123024	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Recorder: OpenNI/Recorder/1.3.4.3
+   123088	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Player: OpenNI/Player/1.3.4.3
+   123252	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\OpenNI\Bin\nimMockNodes.dll...
+   138673	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. ProductionNode: OpenNI/Mock/1.3.4.3
+   138725	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Generator: OpenNI/Mock/1.3.4.3
+   138761	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. MapGenerator: OpenNI/Mock/1.3.4.3
+   138792	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Device: OpenNI/Mock/1.3.4.3
+   138819	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Depth: OpenNI/Mock/1.3.4.3
+   138865	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. IR: OpenNI/Mock/1.3.4.3
+   138903	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Image: OpenNI/Mock/1.3.4.3
+   138940	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Audio: OpenNI/Mock/1.3.4.3
+   138973	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\OpenNI\Bin\nimCodecs.dll...
+   184454	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/16zP/1.3.4.3
+   184497	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/16zT/1.3.4.3
+   184525	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/Im8z/1.3.4.3
+   184557	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/JPEG/1.3.4.3
+   184593	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Codec: OpenNI/NONE/1.3.4.3
+   184625	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\SensorKinect\Bin\XnDeviceFile.dll...
+   249326	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Player: PrimeSense/File/5.0.3.4
+   249376	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\SensorKinect\Bin\XnDeviceSensorV2KM.dll...
+   271333	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Device: PrimeSense/SensorKinect/5.0.3.4
+   271388	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Depth: PrimeSense/SensorKinect/5.0.3.4
+   271420	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Image: PrimeSense/SensorKinect/5.0.3.4
+   271459	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. IR: PrimeSense/SensorKinect/5.0.3.4
+   271499	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Audio: PrimeSense/SensorKinect/5.0.3.4
+   271533	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Features_1_3_0\Bin\XnVFeatures_1_3_0.dll...
+   416874	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Scene: PrimeSense/XnVSceneAnalyzer/1.3.0.17
+   416934	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. User: PrimeSense/XnVSkeletonGenerator/1.3.0.17
+   416969	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Features_1_3_1\Bin\XnVFeatures_1_3_1.dll...
+   500864	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Scene: PrimeSense/XnVSceneAnalyzer/1.3.1.6
+   500984	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. User: PrimeSense/XnVSkeletonGenerator/1.3.1.6
+   501041	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Features_1_4_1\Bin\XnVFeatures_1_4_1.dll...
+   622066	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Scene: PrimeSense/XnVSceneAnalyzer/1.4.1.2
+   622122	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. User: PrimeSense/XnVSkeletonGenerator/1.4.1.2
+   622158	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Hands_1_3_0\Bin\XnVHandGenerator_1_3_0.dll...
+   707473	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Gesture: PrimeSense/XnVGestureGenrator/1.3.0.17
+   707551	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Hands: PrimeSense/XnVHandTracker/1.3.0.17
+   707601	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Hands_1_3_1\Bin\XnVHandGenerator_1_3_1.dll...
+   747790	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Gesture: PrimeSense/XnVGestureGenrator/1.3.1.6
+   747859	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Hands: PrimeSense/XnVHandTracker/1.3.1.6
+   747930	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	282	Checking C:\Archivos de programa\PrimeSense\NITE\Hands_1_4_1\Bin\XnVHandGenerator_1_4_1.dll...
+   825011	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Gesture: PrimeSense/XnVGestureGenrator/1.4.1.2
+   825056	VERBOSE   	ModuleLoader	XnModuleLoader.cpp	453	Found exported production node. Hands: PrimeSense/XnVHandTracker/1.4.1.2
+   825555	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'Script1' of type Script: OpenNI/OpenNI/1.3.4.3...
+   826049	VERBOSE   	OpenNI	XnXmlScriptNode.cpp	780	Requested to create a node of type Depth...
+   915877	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'Device1' of type Device: PrimeSense/SensorKinect/5.0.3.4...
+  2499232	INFO      	DDK	XnProperty.cpp	151	Property Device.ShareMode was changed to 1.
+  2499277	INFO      	DDK	XnProperty.cpp	151	Property Device.InstancePointer was changed.
+  2499506	INFO      	DDK	XnProperty.cpp	151	Property Device.ShareMode was changed to 0.
+  2500347	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'MyDepth' of type Depth: PrimeSense/SensorKinect/5.0.3.4...
+  2500404	VERBOSE   	SensorClient	XnSensorClient.cpp	268	Creating stream MyDepth (of type Depth)
+  2512905	INFO      	DDK	XnProperty.cpp	151	Property Device.ReadData was changed to 1.
+  2539006	INFO      	DDK	XnDeviceBase.cpp	1383	Creating stream 'MyDepth' of type 'Depth'...
+  2539148	VERBOSE   	DDK	XnDeviceBase.cpp	1419	Initializing stream 'MyDepth'...
+  2539630	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.RequiredDataSize was changed to 614400.
+  2540365	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.OutputFormat was changed to 1.
+  2540444	INFO      	DDK	XnDeviceBase.cpp	1458	Stream 'MyDepth' was initialized.
+  2540460	INFO      	DDK	XnDeviceBase.cpp	1463	'MyDepth' stream was created.
+  2541363	VERBOSE   	SensorClient	XnSensorClient.cpp	391	Getting property MyDepth.SupportedModes from server...
+  2558795	VERBOSE   	SensorServer	XnSensorClient.cpp	433	Setting MyDepth.Mirror to 1...
+  2558946	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.Mirror was changed to 1.
+  2559124	VERBOSE   	OpenNI	XnXmlScriptNode.cpp	780	Requested to create a node of type Image (StopOnError=FALSE)...
+  2561887	VERBOSE   	SensorClient	XnSensorClient.cpp	391	Getting property Device.CmosBlankingUnits from server...
+  2574398	INFO      	OpenNI	XnOpenNI.cpp	1547	Creating node 'Image1' of type Image: PrimeSense/SensorKinect/5.0.3.4...
+  2574446	VERBOSE   	SensorClient	XnSensorClient.cpp	268	Creating stream Image1 (of type Image)
+  2583703	INFO      	DDK	XnDeviceBase.cpp	1383	Creating stream 'Image1' of type 'Image'...
+  2596434	VERBOSE   	DDK	XnDeviceBase.cpp	1419	Initializing stream 'Image1'...
+  2596843	INFO      	DDK	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 921600.
+  2597761	INFO      	DDK	XnProperty.cpp	151	Property Image1.OutputFormat was changed to 5.
+  2597808	INFO      	DDK	XnDeviceBase.cpp	1458	Stream 'Image1' was initialized.
+  2597824	INFO      	DDK	XnDeviceBase.cpp	1463	'Image1' stream was created.
+  2598347	VERBOSE   	SensorClient	XnSensorClient.cpp	391	Getting property Image1.SupportedModes from server...
+  2598583	VERBOSE   	SensorServer	XnSensorClient.cpp	433	Setting Image1.Mirror to 1...
+  2598713	INFO      	DDK	XnProperty.cpp	151	Property Image1.Mirror was changed to 1.
+  2598862	VERBOSE   	DDK	XnDeviceBase.cpp	359	Opening stream MyDepth...
+  2600315	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.ActualReadData was changed to 1.
+  2855302	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I:  0.00, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  3025026	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 35.35, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  3092031	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.State was changed to 1.
+  3092098	INFO      	DDK	XnDeviceBase.cpp	370	Stream MyDepth is open.
+  3092127	VERBOSE   	DDK	XnDeviceBase.cpp	359	Opening stream Image1...
+  3093658	INFO      	DDK	XnProperty.cpp	151	Property Image1.ActualReadData was changed to 1.
+  4025068	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.92, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  5025052	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.96, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  6025076	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.97, O:  0.00) Image1 (I:  0.00, O:  0.00) ReadCalls:  0.00
+  6298961	INFO      	DDK	XnProperty.cpp	151	Property Image1.State was changed to 1.
+  6299023	INFO      	DDK	XnDeviceBase.cpp	370	Stream Image1 is open.
+  6299186	VERBOSE   	SensorServer	XnSensorClient.cpp	433	Setting MyDepth.Registration to 1...
+  6454343	INFO      	DDK	XnProperty.cpp	151	Property MyDepth.Registration was changed to 1.
+  7028047	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.94, O:  0.00) Image1 (I: 30.09, O:  0.00) ReadCalls:  0.00
+  8028933	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.93, O:  0.00) Image1 (I: 30.02, O:  0.00) ReadCalls:  0.00
+  9028657	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 29.93, O:  0.79) Image1 (I: 30.02, O:  0.79) ReadCalls:  0.79
+ 10029456	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O:  3.58) Image1 (I: 30.30, O:  3.58) ReadCalls:  3.58
+ 11029443	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O:  2.51) Image1 (I: 30.31, O:  2.51) ReadCalls:  2.50
+ 12029405	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O:  1.76) Image1 (I: 30.30, O:  1.76) ReadCalls:  1.76
+ 13008520	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.21, O:  0.00) ReadCalls:  0.00
+ 14007822	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 15007876	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 16007935	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 17007980	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 18007823	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 19007908	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 20007709	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 21008181	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.21, O:  0.00) ReadCalls:  0.00
+ 22017584	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 23017960	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.11, O:  0.00) ReadCalls:  0.00
+ 24017701	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 25017503	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 26017431	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 27017563	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 28018203	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.11, O:  0.00) ReadCalls:  0.00
+ 29017506	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 30018175	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.11, O:  0.00) ReadCalls:  0.00
+ 31017636	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.41, O:  0.00) Image1 (I: 30.11, O:  0.00) ReadCalls:  0.00
+ 32027607	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.01, O:  0.00) ReadCalls:  0.00
+ 33027532	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.02, O:  0.00) ReadCalls:  0.00
+ 34027289	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.02, O:  0.00) ReadCalls:  0.00
+ 35027284	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.02, O:  0.00) ReadCalls:  0.00
+ 36028053	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.01, O:  0.00) ReadCalls:  0.00
+ 37028270	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.29, O:  0.00) Image1 (I: 30.01, O:  0.00) ReadCalls:  0.00
+ 38027435	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.01, O:  0.00) ReadCalls:  0.00
+ 39027229	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.01, O:  0.00) ReadCalls:  0.00
+ 40027374	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.02, O:  0.00) ReadCalls:  0.00
+ 41028643	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O:  0.00) Image1 (I: 30.30, O:  0.00) ReadCalls:  0.00
+ 42028692	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O:  0.00) Image1 (I: 30.30, O:  0.00) ReadCalls:  0.00
+ 43028792	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.05, O:  0.00) Image1 (I: 30.30, O:  0.00) ReadCalls:  0.00
+ 44007061	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 45006876	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 46006613	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 47007065	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 48006603	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 49006556	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 50006510	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 51006757	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 52006729	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.22, O:  0.00) ReadCalls:  0.00
+ 53016391	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 54016949	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 55016753	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 56017023	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 57016834	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 58016697	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 59016734	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 60017500	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.11, O:  0.00) ReadCalls:  0.00
+ 61016693	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.31, O:  0.00) Image1 (I: 30.12, O:  0.00) ReadCalls:  0.00
+ 62016881	VERBOSE   	FPS	XnOpenNI.cpp	883	[FPS] MyDepth (I: 30.30, O:  0.00) Image1 (I: 30.11, O:  0.00) ReadCalls:  0.00
